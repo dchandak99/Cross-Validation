@@ -58,4 +58,4 @@ the best LL.
 
 
 HOW TO RUN MY CODE:
-Run cross
+Run cross.m and the plots will be generated. Sample plots are given
